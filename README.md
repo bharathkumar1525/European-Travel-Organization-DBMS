@@ -63,7 +63,7 @@ The European Travel Organization Database is a MySQL-based relational database p
 
 ---
 
-## 🚀 Future Improvements
+##  Future Improvements
 
 - Add more sample data
 - Create Views
